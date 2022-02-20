@@ -1,0 +1,56 @@
+.container {
+    width: 70%;
+    float: left;
+    margin-top: 3%;
+    height: 100%;
+    background-color: blue;
+}
+
+#header {
+    width: 100%;
+    /* background-color: blue; */
+    height: 200px;
+    line-height: 200px;
+    font-size: 80px;
+    color: white;
+    text-align: Center;
+    font-family: 'Indie Flower', cursive;
+    background-color:rgb(241, 236, 236);
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    font-weight: bold;
+}
+
+#sidebar {
+    width: 27%;
+    float:left;
+    background-color: red;
+    margin-top: 3%;
+    margin-left: 2%;
+    margin-right: 1%;
+    height: 1000px;
+    border-radius: 10px;
+}
+
+#intro {
+    width: 70%;
+    float: left;
+}
+
+#profile {
+    /* width: 28%; */
+    float: left;
+}
+
+.texts {
+    font-size: 30px;
+    font-family: 'Sacramento', cursive;    
+    margin-left: 2%;
+    line-height: 1.5;
+}
+
+.facts {
+    margin-left:2%;
+    font-family: 'Chakra Petch', sans-serif;
+    line-height: 2;
+}
