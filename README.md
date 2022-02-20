@@ -22,3 +22,10 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+References:
+
+https://doraemon.fandom.com/wiki/Doraemon
+
+https://en.wikipedia.org/wiki/Doraemon_(character)
+
+https://yattatachi.com/tbt-doraemon-gadgets
