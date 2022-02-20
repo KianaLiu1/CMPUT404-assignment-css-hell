@@ -1,0 +1,55 @@
+.container {
+    width: 70%;
+    float: left;
+    margin-top: 3%;
+    height: 100%;
+}
+
+#header {
+    width: 100%;
+    /* background-color: blue; */
+    height: 200px;
+    line-height: 200px;
+    font-size: 80px;
+    color: white;
+    text-align: Center;
+    font-family: 'Indie Flower', cursive;
+    background-image: url("images/headerDoraemon.jpeg");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    font-weight: bold;
+}
+
+#sidebar {
+    width: 27%;
+    float:left;
+    background-color: #89cff0a1;
+    margin-top: 3%;
+    margin-left: 2%;
+    margin-right: 1%;
+    height: 400px;
+    border-radius: 10px;
+}
+
+#intro {
+    width: 70%;
+    float: left;
+}
+
+#profile {
+    width: 28%;
+    float: left;
+}
+
+.texts {
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;       
+    margin-left: 2%;
+    line-height: 1.5;
+}
+
+.facts {
+    margin-left:2%;
+    font-family: 'Chakra Petch', sans-serif;
+    line-height: 2;
+}
